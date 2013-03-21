@@ -41,9 +41,7 @@ Installation
 
 To install this Software follow the Instructions below :
 
-.. To follow soon
-
-1. Bownload the latest copy of the software form our website
+1. Download the latest copy of the software form our website
 http://www.businessdirectmedia.org
 
 2. Copy all the files to your servers folder where you would like to run the
