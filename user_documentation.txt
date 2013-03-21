@@ -1,0 +1,14 @@
+Admin Area
+----------
+
+Registering a new member via the Admin Area
+
+To register a new member via the Admin Area, 
+log into the Admin Area using your Admin Username and Password
+
+Complete the fields and submit.
+
+An email notification will be send to your "Marketing Email" address 
+as set in your config file.
+
+The Member can now log into the members area using the created credentials.
